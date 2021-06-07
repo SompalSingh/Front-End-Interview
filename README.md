@@ -17,6 +17,7 @@ https://www.fullstack.cafe/interview-questions/ <br>
 https://coreytyler134.medium.com/what-are-the-different-ways-to-visually-hide-content-and-make-it-available-only-for-screen-1cc35395bdaa <br>
 
 JavaScript: <br>
+https://github.com/Md-Kais/front-end-Interview-Questions <br>
 https://github.com/learning-zone/javascript-interview-questions <br>
 https://dev.to/worldindev/400-javascript-interview-questions-with-answers-2fcj <br>
 https://dev.to/rajatetc/js-interview-checklist-part-1-basics-10k6 <br>

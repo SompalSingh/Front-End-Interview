@@ -33,3 +33,10 @@ https://www.tektutorialshub.com/angular-tutorial/ <br>
 Tricky:<br>
 https://www.giveagradago.com/news/2019/08/why-do-you-want-to-leave-your-current-job-how-to-answer/425 <br>
 https://grid.malven.co/ <br>
+
+Others: <br>
+https://github.com/pras75299/javascript-questions <br>
+https://github.com/pras75299/angular-interview-questions <br>
+https://github.com/pras75299/angular-interview-questions-1 <br>
+https://github.com/pras75299/Angular-Interview-Questions-2 <br>
+https://github.com/pras75299/Front-end-Developer-Interview-Questions <br>

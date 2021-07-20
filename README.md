@@ -2,13 +2,13 @@ Front-End-Interview Links: <br>
 
 HTML: <br>
 https://github.com/learning-zone/html-interview-questions <br>
-https://www.bitdegree.org/learn/doctype-html
+https://www.bitdegree.org/learn/doctype-html <br>
+https://frontendinterviewhandbook.com/en/html-questions/ 
 
 CSS: <br>
 https://github.com/learning-zone/css-interview-questions <br>
 https://github.com/learning-zone/bootstrap-css-interview-questions<br>
 https://dev.to/mdkais/css-most-asked-interview-question-19ip <br>
-https://frontendinterviewhandbook.com/en/html-questions/ <br>
 https://blog.bullgare.com/2018/02/front-end-interview-questions-with-answers/ <br>
 https://adamschwartz.co/magic-of-css/ <br>
 https://elad.medium.com/ <br>
@@ -28,7 +28,7 @@ https://github.com/rohan-paul/Awesome-JavaScript-Interviews <br>
 https://codeburst.io/javascript-interview-questions-functions-5a3081c1f3f5 <br>
 
 Angular: <br>
-https://github.com/learning-zone/angular-interview-questions <br>
+https://github.com/sudheerj/angular-interview-questions <br>
 https://www.tektutorialshub.com/angular-tutorial/ <br>
 
 Tricky:<br>

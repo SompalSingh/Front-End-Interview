@@ -29,6 +29,7 @@ https://codeburst.io/javascript-interview-questions-functions-5a3081c1f3f5 <br>
 
 Angular: <br>
 https://github.com/sudheerj/angular-interview-questions <br>
+https://github.com/learning-zone/angular-interview-questions <br>
 https://www.tektutorialshub.com/angular-tutorial/ <br>
 
 Tricky:<br>
